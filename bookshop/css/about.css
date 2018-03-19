@@ -38,7 +38,7 @@ body{
 .jumbotron {
   padding-top: 7rem;
   padding-bottom: 6rem;
-  background-image: url("../img/pic2.jpg");
+  background-image: url("../img/p7.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -51,7 +51,7 @@ body{
   padding:2rem;
   color: white;
   text-align:center;
-  background-color:red;
+  background-color:#2196F3;
 }
 
 hr.soften {
@@ -128,3 +128,10 @@ hr.soften {
 	background-color:#5C80BC;
 	color:white;
 }
+
+.about-shop{
+	max-width:80%;
+}
+ .round-img{
+ 	border-radius:50%;
+ }
