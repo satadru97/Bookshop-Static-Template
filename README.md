@@ -1,2 +1,8 @@
-# templates
-Fast, simple and easy website templates made using Bootstrap framework
+# Bookshop Static Template
+
+## Languages/Frameworks/API's Used:
+- HTML
+- CSS
+- Bootstrap 4.0
+- Font Awesome
+- Google Fonts
