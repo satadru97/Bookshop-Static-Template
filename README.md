@@ -1,8 +1,8 @@
 # Bookshop Static Template
 
 ## Languages/Frameworks/API's Used:
-- HTML
-- CSS
+- HTML5
+- CSS3
 - Bootstrap 4.0
 - Font Awesome
 - Google Fonts
